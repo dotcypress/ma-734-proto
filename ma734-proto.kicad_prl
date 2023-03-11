@@ -65,11 +65,11 @@
       35,
       36
     ],
-    "visible_layers": "003f1ff_80000007",
-    "zone_display_mode": 0
+    "visible_layers": "001f1df_80000007",
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "oshpark-4-layer-board.kicad_prl",
+    "filename": "ma734-proto.kicad_prl",
     "version": 3
   },
   "project": {
